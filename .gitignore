@@ -128,3 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 config.yml
+
+guess_voice/data/user.sqlite
+guess_voice/data/voice.sqlite
+guess_voice/voice/*
+assets/player_info/weapon/
+daily_note/data/*
+data/*
