@@ -259,27 +259,47 @@
   },
   "10000070": {
     "name": "妮露",
-    "rarity":5,
+    "rarity": 5,
     "element": "Hydro"
   },
   "10000071": {
     "name": "赛诺",
-    "rarity":5,
-    "element":"Electro"
+    "rarity": 5,
+    "element": "Electro"
   },
   "10000072": {
     "name": " 坎蒂丝",
-    "rarity":4,
+    "rarity": 4,
     "element": "Hydro"
   },
   "10000073": {
     "name": "纳西妲",
-    "rarity":5,
-    "element":"Dendro"
+    "rarity": 5,
+    "element": "Dendro"
   },
   "10000074": {
     "name": "莱依拉",
     "rarity": 4,
-    "element":"Cryo"
+    "element": "Cryo"
+  },
+  "10000075": {
+    "name": "流浪者",
+    "rarity": 5,
+    "element": "Anemo"
+  },
+  "10000076": {
+    "name": "珐露珊",
+    "rarity": 4,
+    "element": "Anemo"
+  },
+  "10000077": {
+    "name": "瑶瑶",
+    "rarity": 4,
+    "element": "Dendro"
+  },
+  "10000078": {
+    "name": "艾尔海森",
+    "rarity": 5,
+    "element": "Dendro"
   }
 }
